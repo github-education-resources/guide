@@ -1,20 +1,20 @@
-_This guide will walk you through creating and configuring a GitHub
-Organization for classroom use._
+**This guide will walk you through creating and configuring a GitHub
+Organization for classroom use.**
 
 ### 1. Sign up for GitHub
 
-_If you already have a personal GitHub account, you can skip this step._
+**If you already have a personal GitHub account, you can skip this step.**
 
 GitHub has two types of accounts: Personal and Organization. To get started,
 you'll need to create a Personal account. Each individual user on GitHub
 should have exactly one Personal account. There's no need to maintain a
 separate account just for teaching, we'll use an Organization for that.
 
-It's totally free to create an account, so go ahead and [sign up] [signup].
+It's totally free to create an account, so go ahead and [sign up][signup].
 
 ### 2. Create an Organization for your class
 
-_You must be logged in to GitHub to create an Organization account._
+**You must be logged in to GitHub to create an Organization account.**
 
 A GitHub Organization represents a group of people working together, like a
 company or an open-source project. In this case, we'll use an Organization to
@@ -27,7 +27,7 @@ semester or year in the name.
 
 ### 3. Request free private repositories
 
-_You only need the discount if you want to keep your students' code private._
+**You only need the discount if you want to keep your students' code private.**
 
 GitHub is free for open source and paid for private use. We're happy to offer
 free private repositories to teachers using GitHub with students in a
@@ -38,8 +38,8 @@ If you would like your students' code to remain private, [request a discount]
 
 ### 4. Give your students access using Teams
 
-_Your students need to sign up for GitHub before you can grant them access to
-your Organization._
+**Your students need to sign up for GitHub before you can grant them access to
+your Organization.**
 
 You can manage access to your Organization using Teams. The most common use of
 Teams is to group students together for project work. You can manage the
