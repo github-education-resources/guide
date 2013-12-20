@@ -1,6 +1,3 @@
-**This guide will walk you through creating and configuring a GitHub
-Organization for classroom use.**
-
 ### 1. Sign up for GitHub
 
 **If you already have a personal GitHub account, you can skip this step.**
