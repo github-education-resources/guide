@@ -2,7 +2,7 @@
 
 **If you already have a personal GitHub account, you can skip this step.**
 
-GitHub has two types of accounts: Personal and Organization. To get started, you'll need to create a Personal account. Each individual user on GitHub should have exactly one Personal account. There's no need to maintain a separate account just for teaching, we'll use an Organization for that.
+GitHub has two types of accounts: [Personal and Organization][user-accounts]. To get started, you'll need to create a Personal account. Each individual user on GitHub should have exactly one Personal account. There's no need to maintain a separate account just for teaching, we'll use an Organization for that.
 
 It's totally free to create an account, so go ahead and [sign up][signup].
 
@@ -36,3 +36,4 @@ You can read more about [Teams][help-team] and [access control][help-access-cont
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
+[user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
