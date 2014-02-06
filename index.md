@@ -14,21 +14,51 @@ A GitHub Organization represents a group of people working together, like a comp
 
 [Create an organization][org-signup] for your class.
 
-### 3. Request free private repositories
+### 3. Give access to others
+
+You'll probably want to add all co-teachers, teaching assistants, graders, etc. to the Owners team of the organization, so that they will have access to all your students' work.
+
+You can read more about [Teams][help-team] and [access control][help-access-control] on GitHub Help.
+
+### 4. Post your syllabus
+
+You may want to create a public repository with your syllabus and assignment description(s). That way, students can see any changes made over time and create issues to ask for clarifications, and other teachers can collaborate with you to make your materials even better.
+
+See [an example course repository](https://github.com/afeld/advanced_js).
+
+### 5. Request free private repositories
 
 **You only need the discount if you want to keep your students' code private.**
 
 GitHub is free for open source and paid for private use. We're happy to offer free private repositories to teachers using GitHub with students in a classroom setting.
 
-If you would like your students' code to remain private, [request a discount][discount].
+If you would like your students' code to remain private, [request a discount][discount]. Note these requests take up to a week to process, so please **do this in advance**.
 
-### 4. Give your students access using Teams
+### 6. Set up the repositories
 
 **Your students need to sign up for GitHub before you can grant them access to your Organization.**
 
-You can manage access to your Organization using Teams. The most common use of Teams is to group students together for project work. You can manage the access permissions for each Team independently, that way you can decide who has access to what code. It's also useful to create a Team for teaching assitants with full access to all code in the Organzization.
+You have a couple options for how to organize the repositories for your students.
 
-You can read more about [Teams][help-team] and [access control][help-access-control] on GitHub Help.
+#### Individual projects
+
+For each student:
+
+1. Create a repository in the organization based on the student's name.
+2. Create a team in the organization, matching the name of the repository.
+3. Set that team to have `Push/Pull` permissions.
+4. Add the student to that team.
+5. Give that team access to the corresponding repository.
+
+#### Group projects
+
+For each group:
+
+1. Create a repository in the organization.
+2. Create a team in the organization.
+3. Set that team to have `Push/Pull` permissions.
+4. Add all of the group members to that team.
+5. Give that team access to the corresponding repository.
 
 ### 5. Get started with Git and GitHub
 
