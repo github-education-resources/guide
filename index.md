@@ -32,7 +32,7 @@ You can read more about [Teams][help-team] and [access control][help-access-cont
 
 ### 5. Get started with Git and GitHub
 
-We have various resources available: check out [our list of guides and tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github) for learning how to use Git and GitHub, or our [official open source training materials](http://training.github.com/materials/) if you want to walk your students through them.
+We have various resources available: check out [our list of guides and tutorials][learning-materials] for learning how to use Git and GitHub, or our [official open source training materials][teaching-materials] if you want to walk your students through them.
 
 <!-- Links -->
 [discount]: /discount
@@ -41,3 +41,5 @@ We have various resources available: check out [our list of guides and tutorials
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
+[learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
+[teaching-materials]: http://training.github.com/materials/
