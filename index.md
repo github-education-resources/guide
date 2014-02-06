@@ -30,6 +30,10 @@ You can manage access to your Organization using Teams. The most common use of T
 
 You can read more about [Teams][help-team] and [access control][help-access-control] on GitHub Help.
 
+### 5. Get started with Git and GitHub
+
+We have various resources available: check out [our list of guides and tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github) for learning how to use Git and GitHub, or our [official open source training materials](http://training.github.com/materials/) if you want to walk your students through them.
+
 <!-- Links -->
 [discount]: /discount
 [help-team]: https://help.github.com/articles/how-do-i-set-up-a-team
@@ -37,7 +41,3 @@ You can read more about [Teams][help-team] and [access control][help-access-cont
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
-
-### 5. Get started with Git and GitHub
-
-We have various resources available: check out [our list of guides and tutorials](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github) for learning how to use Git and GitHub, or our [official open source training materials](http://training.github.com/materials/) if you want to walk your students through them.
