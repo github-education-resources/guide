@@ -60,7 +60,7 @@ For each group:
 4. Add all of the group members to that team.
 5. Give that team access to the corresponding repository.
 
-### 5. Get started with Git and GitHub
+### 7. Get started with Git and GitHub
 
 We have various resources available: check out [our list of guides and tutorials][learning-materials] for learning how to use Git and GitHub, or our [official open source training materials][teaching-materials] if you want to walk your students through them.
 
