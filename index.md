@@ -64,8 +64,9 @@ For each group:
 
 We have various resources available for Git and GitHub:
 
-* Our [list of guides and tutorials][learning-materials] for learning how to use them
-* Our [official open source training materials][teaching-materials] if you want to walk your students through them
+* [List of guides and tutorials][learning-materials] for learning how to use them
+* [Open source training materials][teaching-materials] to you can use/customize for your classes
+* [Git cheat sheet][cheat-sheet]
 
 <!-- Links -->
 [discount]: /discount
@@ -76,3 +77,4 @@ We have various resources available for Git and GitHub:
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
 [learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
 [teaching-materials]: http://training.github.com/materials/
+[cheat-sheet]: /git-cheat-sheet-education.pdf
