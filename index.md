@@ -62,7 +62,10 @@ For each group:
 
 ### 7. Get started with Git and GitHub
 
-We have various resources available: check out [our list of guides and tutorials][learning-materials] for learning how to use Git and GitHub, or our [official open source training materials][teaching-materials] if you want to walk your students through them.
+We have various resources available for Git and GitHub:
+
+* Our [list of guides and tutorials][learning-materials] for learning how to use them
+* Our [official open source training materials][teaching-materials] if you want to walk your students through them
 
 <!-- Links -->
 [discount]: /discount
