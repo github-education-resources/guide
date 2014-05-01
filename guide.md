@@ -60,7 +60,11 @@ For each group:
 4. Add all of the group members to that team.
 5. Give that team access to the corresponding repository.
 
-### 7. Get started with Git and GitHub
+### 7. Seed the repositories
+
+If you have boilerplate code/files each student will need, you can push them up to each repository using the [`push_repos`][push-repos] action in [teachers_pet][teachers-pet].
+
+### 8. Get started with Git and GitHub
 
 We have various resources available for Git and GitHub:
 
@@ -74,6 +78,7 @@ We have various resources available for Git and GitHub:
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 [create-repos]: https://github.com/education/teachers_pet#creating-assignments
 [teachers-pet]: https://github.com/education/teachers_pet
+[push-repos]: https://github.com/education/teachers_pet#pushing-starter-files
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
