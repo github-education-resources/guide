@@ -38,7 +38,7 @@ If you would like your students' code to remain private, [request a discount][di
 
 **Your students need to sign up for GitHub before you can grant them access to your Organization.**
 
-You have a couple options for how to organize the repositories for your students.
+You have a couple options for how to organize the repositories for your students. You can use [`create_repos`][create-repos] action of our [teachers_pet][teachers-pet] tool, or do the following steps manually.
 
 #### Individual projects
 
@@ -72,6 +72,8 @@ We have various resources available for Git and GitHub:
 [discount]: /discount
 [help-team]: https://help.github.com/articles/how-do-i-set-up-a-team
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
+[create-repos]: https://github.com/education/teachers_pet#creating-assignments
+[teachers-pet]: https://github.com/education/teachers_pet
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
