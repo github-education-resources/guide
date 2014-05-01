@@ -14,23 +14,17 @@ A GitHub Organization represents a group of people working together, like a comp
 
 [Create an organization][org-signup] for your class.
 
-### 3. Give access to others
-
-You'll probably want to add all co-teachers, teaching assistants, graders, etc. to the Owners team of the organization, so that they will have access to all your students' work.
-
-You can read more about [Teams][help-team] and [access control][help-access-control] on GitHub Help.
-
-### 4. Post your syllabus
+### 3. Post your syllabus
 
 You may want to create a public repository with your syllabus and assignment description(s). That way, students can see any changes made over time and create issues to ask for clarifications, and other teachers can collaborate with you to make your materials even better.
 
 See [an example course repository](https://github.com/afeld/advanced_js).
 
-### 5. Set up the repositories
+### 4. Set up the repositories
 
 The easiest way to set up your class on GitHub is using forks, via [this guide][forks]. Note that structure means students will have access to one another's work, so if it's important that their assignments are hidden from one another, use our [sandboxing][sandboxing] guide instead. One thing to keep in mind is that there's no shortage of ways for students to share files with one another, so embracing collaboration and peer learning through [the forking method][forks] is encouraged :+1:
 
-### 6. Get started with Git and GitHub
+### 5. Get started with Git and GitHub
 
 We have various resources available for Git and GitHub:
 
@@ -39,8 +33,6 @@ We have various resources available for Git and GitHub:
 * [Git cheat sheet][cheat-sheet]
 
 <!-- Links -->
-[help-team]: https://help.github.com/articles/how-do-i-set-up-a-team
-[help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts

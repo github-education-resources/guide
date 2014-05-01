@@ -30,5 +30,13 @@ For each group:
 4. Add all of the group members to that team.
 5. Give that team access to the corresponding repository.
 
+### 3. Give access to others
+
+You'll probably want to add all co-teachers, teaching assistants, graders, etc. to the Owners team of the organization, so that they will have access to all your students' work.
+
+You can read more about [Teams][help-team] and [access control][help-access-control] on GitHub Help.
+
 <!-- Links -->
 [discount]: /discount
+[help-team]: https://help.github.com/articles/how-do-i-set-up-a-team
+[help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
