@@ -8,11 +8,11 @@ To have students complete assignments using forks:
 
 The students then follow these steps for each assignment:
 
-1. To start, [**fork the repository**][forking]
-1. Clone the repository to your computer
-1. Modify the files and commit changes to complete your solution
-1. Push/sync the changes up to GitHub
-1. [Create a pull request][pull-request] on the original repository to turn in the assignment
+1. To start, [**fork** the repository][forking]
+1. **Clone** the repository to your computer
+1. Modify the files and **commit** changes to complete your solution
+1. **Push**/sync the changes up to GitHub
+1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment
 
 You may consider making a context-specific copy of them in your syllabus or assignment description.
 
