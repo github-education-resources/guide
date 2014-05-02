@@ -6,7 +6,7 @@ GitHub is free for open source and paid for private use. We're happy to offer fr
 
 ### 2. Set up the repositories
 
-**Your students need to sign up for GitHub before you can grant them access to your Organization.**
+**Your students need to sign up for GitHub before you can grant them access to your organization.**
 
 You have a couple options for how to organize the repositories for your students.
 
@@ -34,7 +34,7 @@ For each group:
 
 You'll probably want to add all co-teachers, teaching assistants, graders, etc. to the Owners team of the organization, so that they will have access to all your students' work.
 
-You can read more about [Teams][help-team] and [access control][help-access-control] on GitHub Help.
+You can read more about [teams][help-team] and [access control][help-access-control] on GitHub Help.
 
 <!-- Links -->
 [discount]: /discount

@@ -2,15 +2,15 @@
 
 **If you already have a personal GitHub account, you can skip this step.**
 
-GitHub has two types of accounts: [Personal and Organization][user-accounts]. To get started, you and each student/co-teacher will need to create a Personal account. Each individual user on GitHub should have exactly one Personal account. There's no need to maintain a separate account just for teaching, we'll use an Organization for that.
+GitHub has two types of accounts: [personal and organization][user-accounts]. To get started, you and each student/co-teacher will need to create a personal account. Each individual user on GitHub should have exactly one personal account. There's no need to maintain a separate account just for teaching, we'll use an organization for that.
 
 It's totally free to create an account, so go ahead and [sign up][signup].
 
-### 2. Create an Organization for your class
+### 2. Create an organization for your class
 
-**You must be logged in to GitHub to create an Organization account.**
+**You must be logged in to GitHub to create an organization account.**
 
-A GitHub Organization represents a group of people working together, like a company or an open-source project. In this case, we'll use an Organization to represent your class in school. You can name your Organization anything you like. A common convention is to use some combination of the school name and course number. If you intend to repeat the course you may want to include the semester or year in the name.
+A GitHub organization represents a group of people working together, like a company or an open-source project. In this case, we'll use an organization to represent your class in school. You can name your organization anything you like. A common convention is to use some combination of the school name and course number. If you intend to repeat the course you may want to include the semester or year in the name.
 
 [Create an organization][org-signup] for your class.
 
