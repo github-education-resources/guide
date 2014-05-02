@@ -62,7 +62,7 @@ For each group:
 
 ### 7. Seed the repositories
 
-If you have boilerplate code/files each student will need, you can push them up to each repository using the [`push_repos`][push-repos] action in [teachers_pet][teachers-pet].
+If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_repos`][push-repos] action in [teachers_pet][teachers-pet] automates this for you.
 
 ### 8. Get started with Git and GitHub
 
@@ -82,6 +82,7 @@ We have various resources available for Git and GitHub:
 [org-signup]: http://github.com/organizations/new
 [signup]: https://github.com/signup
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
+[ref-push]: http://gitref.org/remotes/#push
 [learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
 [teaching-materials]: http://training.github.com/materials/
 [cheat-sheet]: /git-cheat-sheet-education.pdf
