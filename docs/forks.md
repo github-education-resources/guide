@@ -18,7 +18,7 @@ You may consider making a context-specific copy of them in your syllabus or assi
 
 ### 3. Reviewing assignments
 
-As a teacher, you can then do code review within the pull request, giving line-by-line feedback.  If you allow them to do corrections, they can then push fixes up to their repository, which will be reflected in the pull request. No need to actually merge the pull request, since you don't want the solution in the original repository – just close the pull request and give them a :+1: (`:+1:`).
+As a teacher, you can then do code review within the pull request, giving line-by-line feedback. If you allow them to do corrections, they can then push fixes up to their repository, which will be reflected in the pull request. No need to actually merge the pull request, since you don't want the solution in the original repository – just close the pull request and give them a :+1: (`:+1:`).
 
 <!-- Links -->
 [forking]: https://guides.github.com/activities/forking/
