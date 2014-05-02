@@ -24,7 +24,7 @@ Your students then follow these steps for each assignment:
 1. [**Push**][ref-push]/sync the changes up to GitHub.
 1. [Create a **pull request**][pull-request] on the original repository to turn in the assignment.
 
-You may consider making a context-specific copy of these steps in your syllabus or assignment description.
+You may consider making a context-specific copy of these steps in your syllabus or assignment description – grab [the markdown][raw].
 
 ### 3. Reviewing assignments
 
@@ -41,3 +41,4 @@ Since you don't want any solutions in the original assignment repository, you sh
 [ref-commit]: http://gitref.org/basic/#commit
 [ref-push]: http://gitref.org/remotes/#push
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
+[raw]: https://raw.githubusercontent.com/education/guide/master/docs/forks.md
