@@ -16,7 +16,7 @@ A GitHub organization represents a group of people working together, like a comp
 
 ### 3. Post your syllabus
 
-You may want to create a public repository with your syllabus and assignment description(s). That way, students can see any changes made over time and create issues to ask for clarifications, and other teachers can collaborate with you to make your materials even better.
+You may want to create a repository with your syllabus and assignment description(s). That way, students can see any changes made over time and create issues to ask for clarifications. If the repository is public, other teachers can collaborate with you to make your materials even better.
 
 See [an example course repository](https://github.com/afeld/advanced_js).
 

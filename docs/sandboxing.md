@@ -1,8 +1,8 @@
 To set up assignments using the sandboxing method (a.k.a. "fake forks"):
 
-### 1. Request free private repositories
+### 1. Get an upgraded plan
 
-GitHub is free for open source and paid for private use. We're happy to offer free private repositories to teachers using GitHub with students in a classroom setting – just [submit a request][discount]. Note these requests take up to a week to process, so please **do this in advance**.
+See our [guide][private-repos] on getting private repositories to use in your class. You will need one private repository per student per assignment.
 
 ### 2. Set up the repositories
 
@@ -30,13 +30,5 @@ For each group:
 1. Add all of the group members to that team.
 1. Give that team access to the corresponding repository.
 
-### 3. Give access to others
-
-You'll probably want to add all co-teachers, teaching assistants, graders, etc. to the Owners team of the organization, so that they will have access to all your students' work.
-
-You can read more about [teams][help-team] and [access control][help-access-control] on GitHub Help.
-
 <!-- Links -->
-[discount]: /discount
-[help-team]: https://help.github.com/articles/how-do-i-set-up-a-team
-[help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
+[private-repos]: private_repos

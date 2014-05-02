@@ -4,6 +4,16 @@ To have students complete assignments using forks:
 
 **Create one repository per assignment**. Include any boilerplate files your students will need to get started.
 
+If you'd prefer that your assignments or students' work isn't publicly visible, [request private repositories][private-repos] to use for your class. You will need one private repository per assignment.
+
+### 2. Give students read-only access
+
+**If your repositories are public, you can skip this step.**
+
+If your course materials are in private repositories, students will need read-only access to them. Create a `students` team with "read access" and [add each student to it][add-to-team]. Then, give that team access to all repositories that they will need.
+
+[Read more about access control][help-access-control].
+
 ### 2. Completing assignments
 
 Your students then follow these steps for each assignment:
@@ -23,5 +33,8 @@ Once created, you can then do code review with line-by-line feedback directly wi
 Since you don't want any solutions in the original assignment repository, you should leave the pull request unmerged. When you're finished giving feedback, you can close the pull request and leave a :+1: (`:1:`) in a final comment.
 
 <!-- Links -->
+[private-repos]: private_repos
+[add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
+[help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 [forking]: https://guides.github.com/activities/forking/
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
