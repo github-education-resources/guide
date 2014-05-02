@@ -8,7 +8,7 @@ GitHub is free for open source and paid for private use. We're happy to offer fr
 
 **Your students need to sign up for GitHub before you can grant them access to your organization.**
 
-You have a couple options for how to organize the repositories for your students.
+You have a few options for how to organize the repositories for your students.
 
 #### Individual projects
 

@@ -2,15 +2,15 @@
 
 **If you already have a personal GitHub account, you can skip this step.**
 
-GitHub has two types of accounts: [personal and organization][user-accounts]. To get started, you and each student/co-teacher will need to create a personal account. Each individual user on GitHub should have exactly one personal account. There's no need to maintain a separate account just for teaching, we'll use an organization for that.
+GitHub has two types of accounts: [personal user accounts and organization accounts][user-accounts]. To get started, you and each student/co-teacher will need to [create a personal account][signup]. Each individual user on GitHub should have exactly one personal account. There's no need to maintain a separate account just for teaching, we'll use an organization for that.
 
 It's totally free to create an account, so go ahead and [sign up][signup].
 
 ### 2. Create an organization for your class
 
-**You must be logged in to GitHub to create an organization account.**
+**You must be logged into your personal GitHub account in order to create an organization account.**
 
-A GitHub organization represents a group of people working together, like a company or an open-source project. In this case, we'll use an organization to represent your class in school. You can name your organization anything you like. A common convention is to use some combination of the school name and course number. If you intend to repeat the course you may want to include the semester or year in the name.
+A GitHub organization represents a group of people working together, like a company or an open-source project. In this case, we'll use an organization to represent your class in school. You can name your organization anything you like. A common convention is to use some combination of the school name and course number. If you intend to repeat the course, you may want to include the semester or year in the name.
 
 [Create an organization][org-signup] for your class.
 
@@ -26,15 +26,15 @@ There are two options for how to structure the repositories for your class:
 
 #### [Forks][forks]
 
-* Anyone who can see the base repository can see all forks, a.k.a. all students can see one another's work
-* Different solutions can be cross-referenced, encouraging peer learning
-* Pull requests can be used for submission and code review
-* Ideal for collaborative assignments, which can act like open source projects
+* Anyone who can see the base repository can see all forks, i.e. all students can see one another's work.
+* Different solutions can be cross-referenced, encouraging peer learning.
+* Pull requests can be used for submission and code review.
+* Ideal for collaborative assignments, which can act like open source projects.
 
 #### [Sandboxing][sandboxing]
 
-* Individuals can only see repositories when explicitly given access, a.k.a. student are blocked from seeing one another's work
-* Extra work to set up
+* Individuals can only see repositories when explicitly given access, i.e. students are blocked from seeing one another's work.
+* Extra work to set up.
 
 One thing to keep in mind is that there's no shortage of ways for students to share files with one another, so embracing the potential for learning from one another's work through [the forking method][forks] is encouraged :mortar_board:
 
