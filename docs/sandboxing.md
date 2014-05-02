@@ -15,20 +15,20 @@ You have a couple options for how to organize the repositories for your students
 For each student:
 
 1. Create a repository in the organization based on the student's name.
-2. Create a team in the organization, matching the name of the repository.
-3. Set that team to have `Push/Pull` permissions.
-4. Add the student to that team.
-5. Give that team access to the corresponding repository.
+1. Create a team in the organization, matching the name of the repository.
+1. Set that team to have `Push/Pull` permissions.
+1. Add the student to that team.
+1. Give that team access to the corresponding repository.
 
 #### Group projects
 
 For each group:
 
 1. Create a repository in the organization.
-2. Create a team in the organization.
-3. Set that team to have `Push/Pull` permissions.
-4. Add all of the group members to that team.
-5. Give that team access to the corresponding repository.
+1. Create a team in the organization.
+1. Set that team to have `Push/Pull` permissions.
+1. Add all of the group members to that team.
+1. Give that team access to the corresponding repository.
 
 ### 3. Give access to others
 
