@@ -28,6 +28,7 @@ There are two options for how to structure the repositories for your class:
 
 * Anyone who can see the base repository can see all forks, a.k.a. all students can see one another's work
 * Different solutions can be cross-referenced, encouraging peer learning
+* Pull requests can be used for submission and code review
 * Ideal for collaborative assignments, which can act like open source projects
 
 #### [Sandboxing][sandboxing]
