@@ -22,7 +22,20 @@ See [an example course repository](https://github.com/afeld/advanced_js).
 
 ### 4. Set up the repositories
 
-The easiest way to set up your class on GitHub is using forks, via [this guide][forks]. Note that structure means students will have access to one another's work, so if it's important that their assignments are hidden from one another, use our [sandboxing][sandboxing] guide instead. One thing to keep in mind is that there's no shortage of ways for students to share files with one another, so embracing collaboration and peer learning through [the forking method][forks] is encouraged :+1:
+There are two options for how to structure the repositories for your class:
+
+#### [Forks][forks]
+
+* Anyone who can see the base repository can see all forks, a.k.a. all students can see one another's work
+* Different solutions can be cross-referenced, encouraging peer learning
+* Ideal for collaborative assignments, which can act like open source projects
+
+#### [Sandboxing][sandboxing]
+
+* Individuals can only see repositories when explicitly given access, a.k.a. student are blocked from seeing one another's work
+* Extra work to set up
+
+One thing to keep in mind is that there's no shortage of ways for students to share files with one another, so embracing the potential for learning from one another's work through [the forking method][forks] is encouraged :mortar_board:
 
 ### 5. Get started with Git and GitHub
 
