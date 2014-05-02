@@ -1,8 +1,6 @@
 ### 1. Sign up for GitHub
 
-**If you already have a personal GitHub account, you can skip this step.**
-
-GitHub has two types of accounts: [personal user accounts and organization accounts][user-accounts]. To get started, you and each student/co-teacher will need to [create a personal account][signup]. Each individual user on GitHub should have exactly one personal account. There's no need to maintain a separate account just for teaching, we'll use an organization for that.
+GitHub has two types of accounts: [personal user accounts and organization accounts][user-accounts]. To get started, you and each student/co-teacher will need to [create your/their own personal account][signup], if you/they don't have one already. Each individual user on GitHub should have exactly one personal account. There's no need to maintain a separate account just for teaching, we'll use an organization for that.
 
 It's totally free to create an account, so go ahead and [sign up][signup].
 

@@ -6,8 +6,6 @@ See our [guide][private-repos] on getting private repositories to use in your cl
 
 ### 2. Set up the repositories
 
-**Your students need to sign up for GitHub before you can grant them access to your organization.**
-
 You have a few options for how to organize the repositories for your students.
 
 #### Individual projects
