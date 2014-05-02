@@ -48,7 +48,7 @@ We have various resources available for Git and GitHub:
 
 <!-- Links -->
 [org-signup]: http://github.com/organizations/new
-[signup]: https://github.com/signup
+[signup]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
 [forks]: forks
 [sandboxing]: sandboxing
