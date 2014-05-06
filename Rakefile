@@ -2,8 +2,6 @@ require 'rubygems'
 require 'bundler'
 Bundler.require(:default)
 
-require 'pry'
-
 task :test do
   puts "Compiling and checking links..."
   # need to use a relative path
