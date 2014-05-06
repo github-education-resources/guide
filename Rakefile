@@ -5,7 +5,11 @@ Bundler.require(:default)
 task :test do
   puts "Compiling and checking links..."
   # need to use a relative path
-  proofer = MarkdownProofer.new('.')
+  proofer = MarkdownProofer.new('.', html_proofer: {
+    href_swap: {
+      /\A\// => 'https://education.github.com\0'
+    }
+  })
   proofer.run
   if proofer.errors.any?
     puts proofer.errors.inspect
