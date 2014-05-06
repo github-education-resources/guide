@@ -6,7 +6,7 @@ See our [guide][private-repos] on getting private repositories to use in your cl
 
 ### 2. Set up the repositories
 
-You have a few options for how to organize the repositories for your students.
+You have a few options for how to organize the repositories for your students. You can use [`create_repos`][create-repos] action of our [teachers_pet][teachers-pet] tool, or do the following steps manually.
 
 #### Individual projects
 
@@ -28,5 +28,13 @@ For each group:
 1. Add all of the group members to that team.
 1. Give that team access to the corresponding repository.
 
+### 3. Seed the repositories
+
+If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_repos`][push-repos] action in [teachers_pet][teachers-pet] automates this for you.
+
 <!-- Links -->
 [private-repos]: private_repos
+[create-repos]: https://github.com/education/teachers_pet#creating-assignments
+[teachers-pet]: https://github.com/education/teachers_pet
+[push-repos]: https://github.com/education/teachers_pet#pushing-starter-files
+[ref-push]: http://gitref.org/remotes/#push
