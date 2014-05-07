@@ -50,8 +50,8 @@ If you or your students don't have a lot of experience with the command-line, ch
 [org-signup]: http://github.com/organizations/new
 [signup]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
-[forks]: forks
-[sandboxing]: sandboxing
+[forks]: guides/forks
+[sandboxing]: guides/sandboxing
 [learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
 [teaching-materials]: http://training.github.com/materials/
 [cheat-sheet]: /git-cheat-sheet-education.pdf
