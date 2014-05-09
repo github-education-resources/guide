@@ -1,4 +1,4 @@
-To have students complete assignments using forks:
+To have students complete assignments using forks (**note: this setup means that students will be able to see one another's work**):
 
 ### 1. Create the repositories
 
