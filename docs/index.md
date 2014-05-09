@@ -34,7 +34,7 @@ There are two options for how to structure the repositories for your class:
 * Individuals can only see repositories when explicitly given access, i.e. students are blocked from seeing one another's work.
 * Requires manual repository and permission setup.
 
-Forking & collaborating is how we work at GitHub, and how many other companies and open source projects work. Rather than trying to restrict visibility between students, embracing the potential of them learning from one another's work (through [the forking method][forks]) is encouraged :mortar_board:
+We use pull requests to collaborate within GitHub, as do many other companies and open source projects. Rather than trying to restrict visibility between students, embracing the potential of them learning from one another's work (through [the forking method][forks]) is encouraged, when possible :mortar_board:
 
 ### 5. Get started with Git and GitHub
 
