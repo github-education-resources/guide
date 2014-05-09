@@ -2,7 +2,7 @@ To use private repositories for your class:
 
 ### 1. Request free private repositories
 
-GitHub is free for open source and paid for private use. We're happy to offer free private repositories to teachers using GitHub with students in a classroom setting – just [submit a request][discount]. Note these requests take up to a week to process, so please **do this in advance**.
+GitHub is free for open source and paid for private use. We're happy to offer free private repositories to teachers using GitHub with students in a classroom setting – just **[submit a request][discount] for an organization account** upgrade. Note these requests take up to a week to process, so please **do this in advance**.
 
 ### 2. Give access to others
 
