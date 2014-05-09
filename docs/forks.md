@@ -30,7 +30,7 @@ You may consider making a context-specific copy of these steps in your syllabus 
 
 Once created, you can then do code review with line-by-line feedback directly within the pull request. If you allow your students to submit corrections, they can push fixes up to their forks, which will be reflected in the pull request.
 
-Since you don't want any solutions in the original assignment repository, you should leave the pull request unmerged. When you're finished giving feedback, you can close the pull request and leave a :+1: (`:1:`) in a final comment.
+Since you don't want any solutions in the original assignment repository, you should leave the pull request unmerged. When you're finished giving feedback, you can close the pull request and leave a :+1: (`:+1:`) in a final comment.
 
 <!-- Links -->
 [private-repos]: /guide/private_repos
