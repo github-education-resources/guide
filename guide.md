@@ -10,7 +10,7 @@ It's totally free to create an account, so go ahead and [sign up][signup].
 
 **You must be logged in to GitHub to create an Organization account.**
 
-A GitHub Organization represents a group of people working together, like a company or an open-source project. In this case, we'll use an Organization to represent your class in school. You can name your Organization anything you like. A common convention is to use some combination of the school name and course number. If you intend to repeat the course you may want to include the semester or year in the name.
+A GitHub Organization represents a group of people working together, like a company or an Open Source project. In this case, we'll use an Organization to represent your class in school. You can name your Organization anything you'd like. A common convention is to use some combination of the school name and course number. If you intend to repeat the course you may want to include the semester or year in the name.
 
 [Create an organization][org-signup] for your class.
 
@@ -30,7 +30,7 @@ See [an example course repository](https://github.com/afeld/advanced_js).
 
 **You only need the discount if you want to keep your students' code private.**
 
-GitHub is free for open source and paid for private use. We're happy to offer free private repositories to teachers using GitHub with students in a classroom setting.
+GitHub is free for Open Source and paid for private use. We're happy to offer free private repositories to teachers using GitHub with students in a classroom setting.
 
 If you would like your students' code to remain private, [request a discount][discount]. Note these requests take up to a week to process, so please **do this in advance**.
 
@@ -69,7 +69,7 @@ If you have boilerplate code/files each student will need, you can create a star
 We have various resources available for Git and GitHub:
 
 * [List of guides and tutorials][learning-materials] for learning how to use them
-* [Open source training materials][teaching-materials] to you can use/customize for your classes
+* [Open Source training materials][teaching-materials] to you can use/customize for your classes
 * [Git cheat sheet][cheat-sheet]
 
 If you or your students don't have a lot of experience with the command-line, check out [GitHub for Mac][ghfm] and [GitHub for Windows][ghfw].
