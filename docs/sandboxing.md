@@ -6,7 +6,7 @@ See our [guide][private-repos] on getting private repositories to use in your cl
 
 ### 2. Set up the repositories
 
-You have a few options for how to organize the repositories for your students. You can use [`create_repos`][create-repos] action of our [teachers_pet][teachers-pet] tool, or do the following steps manually.
+You have a few options for how to organize the repositories for your students. We have a command-line tool called [teachers_pet][teachers-pet] that automates some of these steps. You can use the [`create_repos`][create-repos] action to create the repositories, or do the following steps manually.
 
 #### Individual projects
 
