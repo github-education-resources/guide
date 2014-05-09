@@ -33,7 +33,7 @@ For each group:
 If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_repos`][push-repos] action in [teachers_pet][teachers-pet] automates this for you.
 
 <!-- Links -->
-[private-repos]: private_repos
+[private-repos]: /guide/private_repos
 [create-repos]: https://github.com/education/teachers_pet#creating-assignments
 [teachers-pet]: https://github.com/education/teachers_pet
 [push-repos]: https://github.com/education/teachers_pet#pushing-starter-files

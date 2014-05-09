@@ -33,7 +33,7 @@ Once created, you can then do code review with line-by-line feedback directly wi
 Since you don't want any solutions in the original assignment repository, you should leave the pull request unmerged. When you're finished giving feedback, you can close the pull request and leave a :+1: (`:1:`) in a final comment.
 
 <!-- Links -->
-[private-repos]: private_repos
+[private-repos]: /guide/private_repos
 [add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 [forking]: https://guides.github.com/activities/forking/
