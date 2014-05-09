@@ -6,7 +6,7 @@ GitHub is free for open source and paid for private use. We're happy to offer fr
 
 ### 2. Give access to others
 
-You'll probably want to add all co-teachers, teaching assistants, graders, etc. to the Owners team of the organization, so that they will have access to all your students' work.
+You'll probably want to add all co-teachers, teaching assistants, graders, etc. to a `teachers` team in the organization with read access to all the students' repositories.
 
 You can read more about [teams][help-team] and [access control][help-access-control] on GitHub Help.
 
