@@ -7,7 +7,9 @@ task :validate_markdown do
   MarkdownProofer::RakeTask.run(
     html_proofer: {
       href_swap: {
-        /\A\// => 'https://education.github.com\0'
+        %r{\A/guide/(.*)\z} => '\1.md',
+        %r{\A/} => 'https://education.github.com\0',
+        %r{\Ahttps://raw.githubusercontent.com/education/guide/master/docs/(.*)\z} => '\1'
       }
     }
   )

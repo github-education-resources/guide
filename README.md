@@ -1,6 +1,6 @@
 # GitHub for Education [![Build Status](https://travis-ci.org/education/guide.svg?branch=master)](https://travis-ci.org/education/guide)
 
-This repository contains the classroom guide, as seen at https://education.github.com/guide.  See the [issues](https://github.com/education/guide/issues) for open discussions around the content, and feel free to ask questions there.
+This repository contains the classroom guide, as seen at https://education.github.com/guide. See the [issues](https://github.com/education/guide/issues) for open discussions around the content, and feel free to ask questions there. Note that some relative links may be broken in this repository, since they are set up for the live site.
 
 ## License
 
