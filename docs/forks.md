@@ -14,7 +14,7 @@ If your course materials are in private repositories, students will need read-on
 
 [Read more about access control][help-access-control].
 
-### 2. Completing assignments
+### 3. Completing assignments
 
 Your students then follow these steps for each assignment:
 
@@ -26,7 +26,7 @@ Your students then follow these steps for each assignment:
 
 You may consider making a context-specific copy of these steps in your syllabus or assignment description – grab [the markdown][raw].
 
-### 3. Reviewing assignments
+### 4. Reviewing assignments
 
 Once created, you can then do code review with line-by-line feedback directly within the pull request. If you allow your students to submit corrections, they can push fixes up to their forks, which will be reflected in the pull request.
 
