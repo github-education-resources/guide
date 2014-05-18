@@ -2,7 +2,7 @@ To have students complete assignments using forks (**note: this setup means that
 
 ### 1. Create the repositories
 
-**Create one repository per assignment**. Include any boilerplate files your students will need to get started.
+**[Create one repository][create-repo] per assignment**. Include any boilerplate files your students will need to get started.
 
 If you'd prefer that your assignments or students' work isn't publicly visible, [request private repositories][private-repos] to use for your class. You will need one private repository per assignment.
 
@@ -33,6 +33,7 @@ Once created, you can then do code review with line-by-line feedback directly wi
 Since you don't want any solutions in the original assignment repository, you should leave the pull request unmerged. When you're finished giving feedback, you can close the pull request and leave a :+1: (`:+1:`) in a final comment.
 
 <!-- Links -->
+[create-repo]: https://help.github.com/articles/create-a-repo
 [private-repos]: /guide/private_repos
 [add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
