@@ -30,12 +30,12 @@ For each group:
 
 ### 3. Seed the repositories
 
-If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_repos`][push-repos] action in [teachers_pet][teachers-pet] automates this for you.
+If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_files`][push-files] action in [teachers_pet][teachers-pet] automates this for you.
 
 <!-- Links -->
 [private-repos]: /guide/private_repos
 [create-repos-action]: https://github.com/education/teachers_pet#creating-assignments
 [create-repo-manual]: https://help.github.com/articles/create-a-repo
 [teachers-pet]: https://github.com/education/teachers_pet
-[push-repos]: https://github.com/education/teachers_pet#pushing-starter-files
+[push-files]: https://github.com/education/teachers_pet#pushing-starter-files
 [ref-push]: http://gitref.org/remotes/#push
