@@ -1,4 +1,4 @@
-To have students complete assignments using forks (**note: this setup means that students will be able to see one another's work**):
+To have students complete assignments using forks (note: this setup means that **students will be able to see one another's work**):
 
 ### 1. Create the repositories
 
@@ -10,7 +10,7 @@ If you'd prefer that your assignments or students' work isn't publicly visible, 
 
 **If your repositories are public, you can skip this step.**
 
-If your course materials are in private repositories, students will need read-only access to them. Create a `students` team with "read access" and [add each student to it][add-to-team]. Then, give that team access to all repositories that they will need.
+If your course materials are in private repositories, students will need read-only access to them. Create a `students` team with "read access" and give that team access to all repositories that they will need. Next, add each student to the team, via [`add_to_team`][add-to-team-action] in our [teachers_pet][teachers-pet] tool, or [manually][help-add-to-team].
 
 [Read more about access control][help-access-control].
 
@@ -35,7 +35,9 @@ Since you don't want any solutions in the original assignment repository, you sh
 <!-- Links -->
 [create-repo]: https://help.github.com/articles/create-a-repo
 [private-repos]: /guide/private_repos
-[add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
+[add-to-team-action]: https://github.com/education/teachers_pet/#giving-others-access
+[teachers-pet]: https://github.com/education/teachers_pet
+[help-add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
 [forking]: https://guides.github.com/activities/forking/
 [ref-clone]: http://gitref.org/creating/#clone
