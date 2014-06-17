@@ -1,4 +1,4 @@
-To set up assignments using the sandboxing method (a.k.a. "fake forks"):
+To set up assignments using the sandboxing method (a.k.a. "fake forks" or [duplicated repositories][help-duplicate]):
 
 ### 1. Get an upgraded plan
 
@@ -6,7 +6,7 @@ See our [guide][private-repos] on getting private repositories to use in your cl
 
 ### 2. Set up the repositories
 
-You have a few options for how to organize the repositories for your students. We have a command-line tool called [teachers_pet][teachers-pet] that automates some of these steps. You can use the [`create_repos`][create-repos-action] action to create the repositories, or do the following steps [manually][create-repo-manual].
+You have a few options for how to organize the repositories for your students. We have a command-line tool called [teachers_pet][teachers-pet] that automates some of these steps. You can use the [`create_repos`][create-repos-action] action to create the repositories, or do the following steps [manually][help-duplicate].
 
 #### Individual projects
 
@@ -33,9 +33,9 @@ For each group:
 If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_files`][push-files] action in [teachers_pet][teachers-pet] automates this for you.
 
 <!-- Links -->
+[help-duplicate]: https://help.github.com/articles/duplicating-a-repository
 [private-repos]: /guide/private_repos
 [create-repos-action]: https://github.com/education/teachers_pet#creating-assignments
-[create-repo-manual]: https://help.github.com/articles/create-a-repo
 [teachers-pet]: https://github.com/education/teachers_pet
 [push-files]: https://github.com/education/teachers_pet#pushing-starter-files
 [ref-push]: http://gitref.org/remotes/#push
