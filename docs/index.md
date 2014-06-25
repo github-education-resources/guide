@@ -18,9 +18,9 @@ You may want to create a repository with your syllabus and assignment descriptio
 
 See [an example course repository](https://github.com/advanced-js/syllabus).
 
-### 4. Set up the repositories
+### 4. Set up the assignments
 
-See our guide on [repository setup][repository-setup].
+See our guide on [assignment setup][assignments].
 
 ### 5. Get started with Git and GitHub
 
@@ -37,7 +37,7 @@ If you or your students don't have a lot of experience with the command-line, ch
 [org-signup]: http://github.com/organizations/new
 [signup]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
-[repository-setup]: /guide/repository_setup
+[assignments]: /guide/assignments
 [learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
 [teaching-materials]: http://training.github.com/materials/
 [cheat-sheet]: /git-cheat-sheet-education.pdf
