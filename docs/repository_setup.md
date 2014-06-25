@@ -16,7 +16,7 @@ We use pull requests to collaborate within GitHub, as do many other companies an
 
 > Unless there's some special reason, I want all the repositories to be public -- the kids have plenty of ways of sharing information without us knowing about it so I'd rather try to create a culture of sharing with attribution.
 
-–[**@zamansky**][zamansky], CS teacher, Stuyvesant High School ([source][zamansky-source])
+–[@zamansky][zamansky], CS teacher, Stuyvesant High School ([source][zamansky-source])
 
 <!-- Links -->
 [forks]: /guide/forks
