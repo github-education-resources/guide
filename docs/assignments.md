@@ -35,16 +35,13 @@ These tools can be configured to run the tests every time new code is pushed up 
 
 ### Collecting assignments
 
-* https://github.com/education/teachers/issues/7
-    * Since commits can be modified after the fact, don't rely on the timestamps
-* Script to clone/download all repos
-    * https://github.com/education/teachers-pet#pulling-repositories-for-grading
-* Don't put grades on github.com, due to FERPA regulations
-    * Only when students can see one another's repos?
-    * Feedback ok?
-    * Enterprise ok
-* Encouraging collaboration
-    * Peer code review via PRs
+The recommended mechanics use for collecting assignments depends on whether you use the [fork][forks] or [sandbox][sandboxing] strategy.  In either case, feedback can be given inline in pull requests or [commits][commit-comments], or by opening [issues][issues] in the student's repository for them to fix.  This can be done by instructors, though you may consider incorporating peer code review as a way for students to practice giving and receiving feedback.  Note that you may need to grant students [read-only access][access-permissions] to one another's repositories to allow them to see the contents and leave comments.
+
+One GitHub feature that may come in handy is using the [Network][network] and [contributors][graphs] graphs, as well as the list of commits.  As was [pointed out in our teacher community][community-graphs],
+
+> Having the github analytics have been great -- I just have to look at the contributors graph and quickly scan the commit logs.  I can see who did how much and when in just a couple of seconds. I can also see the ebb and flow of work on the project.
+
+Note, however, that commit authors and timestamps can be modified after the fact.
 
 <!-- Links -->
 [repository-setup]: /guide/repository_setup
@@ -63,3 +60,11 @@ These tools can be configured to run the tests every time new code is pushed up 
 [code-climate]: https://codeclimate.com
 [coveralls]: https://coveralls.io
 [webhooks]: https://developer.github.com/webhooks/
+[forks]: /guide/forks
+[sandboxing]: /guide/sandboxing
+[commit-comments]: https://help.github.com/articles/adding-commit-comments
+[issues]: https://guides.github.com/features/issues/
+[access-permissions]: https://help.github.com/articles/permission-levels-for-an-organization-repository
+[network]: https://github.com/blog/39-say-hello-to-the-network-graph-visualizer
+[graphs]: https://help.github.com/articles/using-graphs
+[community-graphs]: https://github.com/education/teachers/issues/7
