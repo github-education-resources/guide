@@ -32,6 +32,11 @@ For each group:
 
 If you have boilerplate code/files each student will need, you can create a starter repository locally, then [push][ref-push] it up to each student repository for that assignment. The [`push_files`][push-files] action in [teachers_pet][teachers-pet] automates this for you.
 
+For the assignment instructions, use one of these two recommended options:
+
+* Create a canonical repository with instructions, in the syllabus repository, or in one dedicated to the assignment.  This gives a canonical source for students to refer to.  If you do create a README in each student's repository, add a link to the canonical instructions.
+* Open issues in each student's repository for them to complete.  The [`open_issue`] command in [teachers_pet][teachers-pet] automates this for you.
+
 <!-- Links -->
 [help-duplicate]: https://help.github.com/articles/duplicating-a-repository
 [private-repos]: /guide/private_repos
@@ -39,3 +44,4 @@ If you have boilerplate code/files each student will need, you can create a star
 [teachers-pet]: https://github.com/education/teachers_pet
 [push-files]: https://github.com/education/teachers_pet#pushing-starter-files
 [ref-push]: http://gitref.org/remotes/#push
+[open-issue]: https://github.com/education/teachers_pet#opening-issues
