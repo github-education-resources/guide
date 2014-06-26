@@ -41,7 +41,7 @@ One GitHub feature that may come in handy is using the [Network][network] and [c
 
 > Having the github analytics have been great -- I just have to look at the contributors graph and quickly scan the commit logs.  I can see who did how much and when in just a couple of seconds. I can also see the ebb and flow of work on the project.
 
-Note, however, that commit authors and timestamps can be modified after the fact.
+Be warned, however: don't take the commit metadata (or graphs generated from them) as gospel; a savvy student could modify the commit author(s) or timestamp(s) after the fact.
 
 <!-- Links -->
 [repository-setup]: /guide/repository_setup
