@@ -18,27 +18,9 @@ You may want to create a repository with your syllabus and assignment descriptio
 
 See [an example course repository](https://github.com/advanced-js/syllabus).
 
-### 4. Set up the repositories
+### 4. Set up the assignments
 
-There are two options for how to structure the repositories for your class:
-
-#### [Forks][forks]
-
-* Anyone who can see the base repository can see all forks, i.e. all students can see one another's work.
-* Different solutions can be cross-referenced, encouraging peer learning.
-* Pull requests can be used for submission and code review.
-* Ideal for collaborative assignments, which can act like open source projects.
-
-#### [Sandboxing][sandboxing]
-
-* Individuals can only see repositories when explicitly given access, i.e. students are blocked from seeing one another's work.
-* Requires manual repository and permission setup.
-
-We use pull requests to collaborate within GitHub, as do many other companies and open source projects. Rather than trying to restrict visibility between students, embracing the potential of them learning from one another's work (through [the forking method][forks]) is encouraged, when possible :mortar_board:
-
-> Unless there's some special reason, I want all the repositories to be public -- the kids have plenty of ways of sharing information without us knowing about it so I'd rather try to create a culture of sharing with attribution.
-
-–[**@zamansky**](https://github.com/zamansky), CS teacher, Stuyvesant High School ([source](https://github.com/education/teachers/issues/2#issuecomment-46861804))
+See our guide on [assignment setup][assignments].
 
 ### 5. Get started with Git and GitHub
 
@@ -56,8 +38,7 @@ If you or your students don't have a lot of experience with the command-line, ch
 [org-signup]: http://github.com/organizations/new
 [signup]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [user-accounts]: https://help.github.com/articles/what-s-the-difference-between-user-and-organization-accounts
-[forks]: /guide/forks
-[sandboxing]: /guide/sandboxing
+[assignments]: /guide/assignments
 [learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
 [teaching-materials]: http://training.github.com/materials/
 [cheat-sheet]: /git-cheat-sheet-education.pdf
