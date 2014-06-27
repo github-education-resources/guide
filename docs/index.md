@@ -47,6 +47,7 @@ We have various resources available for Git and GitHub:
 * [List of guides and tutorials][learning-materials] for learning how to use them
 * [Open source training materials][teaching-materials] to you can use/customize for your classes
 * [Git cheat sheet][cheat-sheet]
+* Our [community forum for teachers][teacher-community]
 
 If you or your students don't have a lot of experience with the command-line, check out [GitHub for Mac][ghfm] and [GitHub for Windows][ghfw].
 
@@ -62,3 +63,4 @@ If you or your students don't have a lot of experience with the command-line, ch
 [cheat-sheet]: /git-cheat-sheet-education.pdf
 [ghfm]: https://mac.github.com/
 [ghfw]: https://windows.github.com/
+[teacher-community]: https://github.com/education/teachers
