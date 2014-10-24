@@ -15,3 +15,4 @@ You can read more about [teams][help-add-to-team] and [access control][help-acce
 [help-add-to-team]: https://help.github.com/articles/adding-organization-members-to-a-team
 [help-team]: https://help.github.com/articles/how-do-i-set-up-a-team
 [help-access-control]: https://help.github.com/articles/what-are-the-different-access-permissions#organization-accounts
+[help-add](https://help.github.com/articles/adding-or-inviting-members-to-a-team-in-an-organization)
