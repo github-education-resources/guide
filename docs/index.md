@@ -31,7 +31,7 @@ We have various resources available for Git and GitHub:
 * [Git cheat sheet][cheat-sheet]
 * Our [community forum for teachers][teacher-community]
 
-If you or your students don't have a lot of experience with the command-line, check out [GitHub for Mac][ghfm] and [GitHub for Windows][ghfw].
+If you or your students don't have a lot of experience with the command-line, check out [GitHub Desktop][github-desktop].
 
 <!-- Links -->
 [help-rename]: https://help.github.com/articles/renaming-an-organization
@@ -42,6 +42,5 @@ If you or your students don't have a lot of experience with the command-line, ch
 [learning-materials]: https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github
 [teaching-materials]: http://training.github.com/materials/
 [cheat-sheet]: /git-cheat-sheet-education.pdf
-[ghfm]: https://mac.github.com/
-[ghfw]: https://windows.github.com/
+[github-desktop]: https://desktop.github.com/
 [teacher-community]: https://github.com/education/teachers
