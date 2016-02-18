@@ -64,7 +64,7 @@ Be warned, however: don't take the commit metadata (or graphs generated from the
 [sandboxing]: /guide/sandboxing
 [commit-comments]: https://help.github.com/articles/adding-commit-comments
 [issues]: https://guides.github.com/features/issues/
-[access-permissions]: https://help.github.com/articles/permission-levels-for-an-organization-repository
+[access-permissions]: https://help.github.com/articles/repository-permission-levels-for-an-organization/
 [network]: https://github.com/blog/39-say-hello-to-the-network-graph-visualizer
 [graphs]: https://help.github.com/articles/using-graphs
 [community-graphs]: https://github.com/education/teachers/issues/7
